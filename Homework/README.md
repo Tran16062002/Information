@@ -15,7 +15,7 @@ touch example.txt
 2. Откройте созданный файл `example.txt` для редактирования.
 
 ```bash
-gedit script.bash
+gedit example.txt
 ```
 
 3. Впишите текст в файле.
